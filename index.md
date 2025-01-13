@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: Welcome to the Digital Mojito blog
 ---
-
-Testing out GitHub pages and Jekyll for building and hosting a blog 
