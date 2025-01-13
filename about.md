@@ -1,3 +1,7 @@
+---
+title: About Me
+---
+
 Written and maintained by Darrenn Jackson. I'm a former electronics tech now turned docs toolsmith by day, working primarily with various Markdown flavors, DITA, DITA-OT, git/GitHub, containers, Oxygen. I'm care a lot about:
 
 - FOSS
